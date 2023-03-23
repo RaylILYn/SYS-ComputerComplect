@@ -1,0 +1,11 @@
+Zalman#1000#Seagate#DDR4
+AsusRog#2000#WDBlue#DDR3
+AsusTuf#3000#Samsung#DDR5
+BeQuiet#500#Kingston#DDR2
+DeepCool#2500#NETAC#DDR3
+Gigabyte#1000#ADATA#DDR
+Zotax#4000#Samsung#DDR5
+1stPlayer#3000#NETAC#DDR4
+Kioky#8000#ADATA#DDR3
+Vegas#8000#Samsung#DDR2
+Corsair#1500#Jonshu#DDR
